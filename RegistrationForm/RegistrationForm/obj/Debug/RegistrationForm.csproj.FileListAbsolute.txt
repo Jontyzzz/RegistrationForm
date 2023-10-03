@@ -1,0 +1,14 @@
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Registration.resources
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\bin\Debug\Database1.mdf
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\bin\Debug\Database1_log.ldf
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Home.resources
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
+C:\Users\PRO\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
